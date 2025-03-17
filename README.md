@@ -30,7 +30,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | --- | 
 |  |
 | **--------------------Section #1: Study Information (The Big Picture)--------------------** |
-| What is the source of the data you’ve gathered? Is the mechanism by which you’ve collected your data subject to bias? The questions in this section are geared toward data collected as part of a study, but the same concepts apply when analyzing data from an existing data source. If you are extracting data from an existing data source, you might consider by what mechanisms data were collected and entered into that data source and what query was used to extract the data from the data source. Are the data collection and entry methods subject to bias? Is the wording of the query sound, or are there potential errors or omissions which might lead to some of the relevant data being excluded from the dataset used for analysis? |
+| What is the source of the data you’ve gathered? Is the mechanism by which you’ve collected your data subject to bias? The questions in this section are geared toward data collected as part of a study, but the same concepts apply when analyzing data from an existing data source. If you are extracting data from an existing data source, you might consider by what mechanisms data were collected and entered into that data source and what query was used to extract the data from the data source. Are the data collection and entry methods subject to bias? Is the wording of the query sound, or are there potential errors or omissions that might lead to some of the relevant data being excluded from the dataset used for analysis? |
 | What is the general purpose of this study/analysis? (exploration, hypothesis confirmation, quality improvement, learning, other?) What are the implications for how test-wise and study-wise error rates, inferences from tests, and generalizability of results are handled? |
 | <br><br><br><br> |
 | What are the research questions for this study? Have the investigators hypothesized any outcomes? |
@@ -64,9 +64,9 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | **--------------------Section #3: Individual Test Information (Complete this section for each test run.)--------------------** |
 |  |
 | $\textcolor{red}{Add \ this \ section:}$ Test selection & Power analysis: Before a statistical test can be conducted, the correct statistical test must first be selected. The test selected depends mainly on the levels of measurement of the data you have available and the characteristics of those data. You may also need to meet certain thresholds for the amount of data you have to be able to conduct a meaningful test. (Determining the amount of data needed is often accomplished by conducting a power analysis.) What statistical test(s) will be conducted? Which variable(s) will be used in those test(s)? Do you have the amount of data needed to get a meaningful result? |
-| Statistical test:<br>IV:<br>DV:<br>Adequate sample size (Power analysis):|
+| Statistical test:<br><br>Adequate sample size (Power analysis):<br><br>|
 | What are the independent (or predictor) and dependent (or outcome) variables for the test, and what is the level of measurement for each one? |
-| <br><br><br><br> |
+| IV:<br><br>DV:<br><br> |
 | NHST steps: |
 | These steps should be followed for each statistical test conducted as part of a study. |
 | 1. State the null and alternative hypothesis. |
