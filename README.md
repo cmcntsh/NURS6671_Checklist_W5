@@ -63,8 +63,8 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | <br><br><br><br> |
 | **--------------------Section #3: Individual Test Information (Complete this section for each test run.)--------------------** |
 |  |
-| $\textcolor{red}{Add \ this \ section:}$ Test selection & Power analysis |
-| Before a statistical test can be conducted, the correct statistical test must first be selected. The test selected depends mainly on the levels of measurement of the data you have available and the characteristics of those data. You may also need to meet certain thresholds for the amount of data you have to be able to conduct a meaningful test. (Determining the amount of data needed is often accomplished by conducting a power analysis.) What statistical test(s) will be conducted? Which variable(s) will be used in those test(s)? Do you have the amount of data needed to get a meaningful result? |
+| $\textcolor{red}{Add \ this \ section:}$ Test selection & Power analysis: Before a statistical test can be conducted, the correct statistical test must first be selected. The test selected depends mainly on the levels of measurement of the data you have available and the characteristics of those data. You may also need to meet certain thresholds for the amount of data you have to be able to conduct a meaningful test. (Determining the amount of data needed is often accomplished by conducting a power analysis.) What statistical test(s) will be conducted? Which variable(s) will be used in those test(s)? Do you have the amount of data needed to get a meaningful result? |
+| Statistical test:<br>IV:<br>DV:<br>Adequate sample size (Power analysis):|
 | What are the independent (or predictor) and dependent (or outcome) variables for the test, and what is the level of measurement for each one? |
 | <br><br><br><br> |
 | NHST steps: |
