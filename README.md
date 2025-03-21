@@ -35,7 +35,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | <br><br><br><br> |
 | What are the research questions for this study? Have the investigators hypothesized any outcomes? |
 | <br><br><br><br> |
-| What is the study design? (Can a specific design described in a study design text like Experimental and Quasi-Experimental Designs for Generalized Causal Inference by Shadish, Cook, and Campbell be identified (Shadish et al., 2002)?) What threats to validity may be applicable to this study design? Are there any procedures that can be put in place to address these threats? |
+| What is the study design? Is the study qualitative, quantitative, or mixed methods? If the study has a quantitative design, is it experimental (manipulation if an independent variable, control group, random assignment), quasi-experimental (manipulation of an independent variable, either a control group or random assignment but not both), or pre-experimental (observational or descriptive studies that lack manipulation of an independent variable, lack random assignment, lack control group) (Shadish et al., 2002)? What threats to validity may be applicable to this study design? Are there any procedures that can be put in place to address these threats (Shadish et al., 2002)? What type of sampling was used for the study? What data collection methods were used? |
 | <br><br><br><br> |
 | What were IRB status and procedures? Are there any other ethical considerations necessary for this study? (American Statistical Association, 2022) |
 | <br><br><br><br> |
